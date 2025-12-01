@@ -1,0 +1,6 @@
+torch>=2.1
+transformers>=4.38
+datasets
+peft
+accelerate
+gradio>=4.0

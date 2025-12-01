@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Env & artifacts
+.venv/
+env/
+venv/
+distilbert-spam-lora/
+*.safetensors
+*.pt
+*.bin
+
+# OS noise
+.DS_Store
